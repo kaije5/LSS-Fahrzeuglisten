@@ -1,26 +1,26 @@
 Wach- /Funkrufname	Typ	Kommentar
-F02 Einsatzabteilung	Wendenstraße 251	20537 Hamburg
-Florian Hamburg 02 KDOW 1	KdoW	
-Florian Hamburg 02 KDOW 2	KdoW	HH-4060E
-Florian Hamburg 02 LNA 01	KdoW LNA	
-Florian Hamburg 02 LNA 01	KdoW LNA	
+*F02 Einsatzabteilung	Wendenstraße 251	20537 Hamburg
+*Florian Hamburg 02 KDOW 1	KdoW
+*Florian Hamburg 02 KDOW 2	KdoW	HH-4060E
+*Florian Hamburg 02 LNA 01	KdoW LNA
+*Florian Hamburg 02 LNA 01	KdoW LNA
 		
-F03 Technik & Logistik	Großmannstraße 10	20539 Hamburg
-Florian Hamburg 03 GW-Logistik	GW-L	
-Florian Hamburg 03 GW-Logistik	GW-L	
-Florian Hamburg 03 GW-Logistik	GW-L	
-Florian Hamburg 03 GW-Logistik	GW-L	
-Florian Hamburg 03 KdoW	KdoW	
-Florian Hamburg 03 KdoW	KdoW	
-Florian Hamburg 03 KdoW	KdoW	
+*F03 Technik & Logistik	Großmannstraße 10	20539 Hamburg
+*Florian Hamburg 03 GW-Logistik	GW-L
+*Florian Hamburg 03 GW-Logistik	GW-L
+*Florian Hamburg 03 GW-Logistik	GW-L
+*Florian Hamburg 03 GW-Logistik	GW-L
+*Florian Hamburg 03 KdoW	KdoW
+*Florian Hamburg 03 KdoW	KdoW
+*Florian Hamburg 03 KdoW	KdoW
 	Werkstattwagen Geräteprüfgruppe	
 	Werkstattwagen KFZ-Technik	
 	Werkstattwagen IuK	
 + Außenstelle Allgemeine Reserve	Durchdeich 62	21037 Hamburg
 Florian Hamburg 03 Dekon-P	GW-Dekon-P	(ehem. CURSL Dekon-P)
 Florian Hamburg 03 GW-FM	GW-FM	
-Florian Hamburg 03 KdoW	KdoW	
-Florian Hamburg 03 LF 16	LF 16	
+*Florian Hamburg 03 KdoW	KdoW
+*Florian Hamburg 03 LF 16	LF 16
 Florian Hamburg 03 NEF ?	NEF	Technische Reserve
 Florian Hamburg 03 RTW ?	RTW	Technische Reserve
 Florian Hamburg 03 RTW ?	RTW	Technische Reserve
@@ -113,20 +113,20 @@ Florian Hamburg 05 WLF	WLF
 + Berufsfachschule der Feuerwehr Hamburg für NotSan	Ausschläger Elbdeich 2	20539 Hamburg
 Florian Hamburg 05 RTW E ?	RTW	Aus- und Fortbildung
 		
-F 11 Feuer- und Rettungswache Innenstadt	Admiralitätstraße 54	20459 Hamburg
-Florian Hamburg 11 ELW 1	ELW1	C-Dienst
-Florian Hamburg 11 HLF 1	HLF 20	
-Florian Hamburg 11 DLK 1	DLK 26/12	Mercedes / Rosenbauer
-Florian Hamburg 11 GW1 1	GW1	
-Florian Hamburg 11 GW-TEL 1	GW-TEL	
-Florian Hamburg 11 RTW A	RTW	
-Florian Hamburg 11 RTW B	RTW	
-Florian Hamburg 11 RTW C	RTW	
-Florian Hamburg 11 RTW K	RTW	
+*F 11 Feuer- und Rettungswache Innenstadt	Admiralitätstraße 54	20459 Hamburg
+*Florian Hamburg 11 ELW 1	ELW1	C-Dienst
+*Florian Hamburg 11 HLF 1	HLF 20
+*Florian Hamburg 11 DLK 1	DLK 26/12	Mercedes / Rosenbauer
+*Florian Hamburg 11 GW1 1	GW1
+*Florian Hamburg 11 GW-TEL 1	GW-TEL
+*Florian Hamburg 11 RTW A	RTW
+*Florian Hamburg 11 RTW B	RTW
+*Florian Hamburg 11 RTW C	RTW
+*Florian Hamburg 11 RTW K	RTW
 Florian Hamburg 11 GW-LBZ 1	GW-LBZ	MTW/MZF - Löschbootzentrum
 + Außenstelle Rettungswache Millerntor	Glacischausse 4	
-Florian Hamburg 11 RTW E	RTW	
-Florian Hamburg 11 RTW F	RTW	
+*Florian Hamburg 11 RTW E	RTW
+*Florian Hamburg 11 RTW F	RTW
 +Bootsstation Sandtorkai	Kehrwiederspitze 1	
 Florian Hamburg 11 LAB	LAB	„Oberspritzenmeister Repsold“ - Ersatz durch LB Prag/Dresden
 Florian Hamburg 11 KB	KB	
@@ -139,22 +139,22 @@ Florian Hamburg 31 KB	KB
 + Bootsstation Finkenwerder	Benittstraße 15	
 Florian Hamburg 35 MZB	MZB	
 		
-F 12 Feuer- und Rettungswache Altona	Mörkenstraße 36	22767 Hamburg
-Florian Hamburg 12 ELW 1	ELW1	C-Dienst
-Florian Hamburg 12 HLF 1	HLF 20	
-Florian Hamburg 12 DLK 1	DLK 26/12	Mercedes / Rosenbauer
-Florian Hamburg 12 GW-R2 1	GW-R2	
-Florian Hamburg 12 GW1 1	GW1	
+*F 12 Feuer- und Rettungswache Altona	Mörkenstraße 36	22767 Hamburg
+*Florian Hamburg 12 ELW 1	ELW1	C-Dienst
+*Florian Hamburg 12 HLF 1	HLF 20
+*Florian Hamburg 12 DLK 1	DLK 26/12	Mercedes / Rosenbauer
+*Florian Hamburg 12 GW-R2 1	GW-R2
+*Florian Hamburg 12 GW1 1	GW1
 Florian Hamburg 12 WLF 1	WLF	
 	AB-Atemschutz	
 	AB-Ladebordwand	
 	AB-Mulde	
 	AB-Schaum	
-Florian Hamburg 10 BDI 1	ELW1	B-Dienst
-Florian Hamburg 12 RTW A	RTW	
-Florian Hamburg 12 RTW B	RTW	
-Florian Hamburg 12 RTW C	RTW	
-Florian Hamburg 12 RTW K	RTW	
+*Florian Hamburg 10 BDI 1	ELW1	B-Dienst
+*Florian Hamburg 12 RTW A	RTW
+*Florian Hamburg 12 RTW B	RTW
+*Florian Hamburg 12 RTW C	RTW
+*Florian Hamburg 12 RTW K	RTW
 Florian Hamburg 12 RTW ?	RTW	Technische Reserve
 Florian Hamburg 12 IRTW A	IRTW	
 Florian Hamburg 12 IRTW B	IRTW	Technische Reserve
@@ -164,72 +164,72 @@ Florian Hamburg 12 SKTW A	SRTW
 Florian Hamburg 12 GW-MANV 1	GW-MANV	
 Florian Hamburg 12 GW-Des	GW-Desinfektor	
 		
-F 13 Feuer- und Rettungswache Rotherbaum	Sedanstrasse 30	20146 Hamburg
-Florian Hamburg 13 ELW 1	ELW1	C-Dienst
-Florian Hamburg 13 HLF 1	HLF 20	
-Florian Hamburg 13 DLK 1	DLK 26/12	Mercedes / Rosenbauer
-Florian Hamburg 13 GW1 1	GW1	
-Florian Hamburg 13 NEF A	NEF	
-Florian Hamburg 13 RTW A	RTW	
-Florian Hamburg 13 RTW B	RTW	
-Florian Hamburg 13 RTW C	RTW	
-Florian Hamburg 13 RTW K	RTW	
+*F 13 Feuer- und Rettungswache Rotherbaum	Sedanstrasse 30	20146 Hamburg
+*Florian Hamburg 13 ELW 1	ELW1	C-Dienst
+*Florian Hamburg 13 HLF 1	HLF 20
+*Florian Hamburg 13 DLK 1	DLK 26/12	Mercedes / Rosenbauer
+*Florian Hamburg 13 GW1 1	GW1
+*Florian Hamburg 13 NEF A	NEF
+*Florian Hamburg 13 RTW A	RTW
+*Florian Hamburg 13 RTW B	RTW
+*Florian Hamburg 13 RTW C	RTW
+*Florian Hamburg 13 RTW K	RTW
 		
-F 14 Feuer- und Rettungswache Osdorf	Harderweg 10	22549 Hamburg
-Florian Hamburg 14 ELW 1	ELW1	C-Dienst
-Florian Hamburg 14 HLF 1	HLF 20	
-Florian Hamburg 14 DLK 1	DLK 26/12	Mercedes / Rosenbauer
-Florian Hamburg 14 GW1 1	GW1	
+*F 14 Feuer- und Rettungswache Osdorf	Harderweg 10	22549 Hamburg
+*Florian Hamburg 14 ELW 1	ELW1	C-Dienst
+*Florian Hamburg 14 HLF 1	HLF 20
+*Florian Hamburg 14 DLK 1	DLK 26/12	Mercedes / Rosenbauer
+*Florian Hamburg 14 GW1 1	GW1
 Florian Hamburg 14 KLB	KLB	außer Dienst?
-Florian Hamburg 14 RTW A	RTW	
-Florian Hamburg 14 RTW B	RTW	
-Florian Hamburg 14 RTW C	RTW	
-Florian Hamburg 14 RTW D	RTW	Ehemals 10-RTW-A
-Florian Hamburg 14 RTW K	RTW	
+*Florian Hamburg 14 RTW A	RTW
+*Florian Hamburg 14 RTW B	RTW
+*Florian Hamburg 14 RTW C	RTW
+*Florian Hamburg 14 RTW D	RTW	Ehemals 10-RTW-A
+*Florian Hamburg 14 RTW K	RTW
 Florian Hamburg 14 RTW L	MZF	"Mit Tragestuhl für Krankentransporte ausgestattet. "
 Florian Hamburg 14 NEF B	NEF	Technische Reserve
 Florian Hamburg 14 GW-SAN	GW-San	Doppelbesetzung HLF1
 + Außenstelle Othmarschen	Walderseestraße 15	besetzt von F14, außer 12 RTW E
-Florian Hamburg 12 SLF-T 1	SLF-T	
-Florian Hamburg 12 VRW-T 1	VRW-T	
-Florian Hamburg 12 VRW-T 2	VRW-T	
-Florian Hamburg 12 RTW E	RTW	besetzt von F12
-Florian Hamburg 12 RTW F	RTW	
+*Florian Hamburg 12 SLF-T 1	SLF-T
+*Florian Hamburg 12 VRW-T 1	VRW-T
+*Florian Hamburg 12 VRW-T 2	VRW-T
+*Florian Hamburg 12 RTW E	RTW	besetzt von F12
+*Florian Hamburg 12 RTW F	RTW
 + Außenstelle Waltershof	Altenwerder Damm	besetzt von F14
-Florian Hamburg 35 SLF-T 1	SLF-T	
-Florian Hamburg 35 VRW-T 1	VRW-T	
+*Florian Hamburg 35 SLF-T 1	SLF-T
+*Florian Hamburg 35 VRW-T 1	VRW-T
 + NEF Außenstelle	AK Altona Paul-Ehrlich-Strasse 1	
-Florian Hamburg 14 NEF A	NEF	
+*Florian Hamburg 14 NEF A	NEF
 + RTW Außenstelle Rissen	Rissener Landstrasse 212	
-Florian Hamburg 14 RTW F	RTW	Betrieb durch die ASB Rettungsdienst Hamburg GmbH
+*Florian Hamburg 14 RTW F	RTW	Betrieb durch die ASB Rettungsdienst Hamburg GmbH
 		
 F 15 Feuer- und Rettungswache Stellingen	Basselweg 71	22527 Hamburg
-Florian Hamburg 15 ELW 1	ELW1	C-Dienst
-Florian Hamburg 15 HLF 1	HLF 20	
-Florian Hamburg 15 HLF 2	HLF 20	Mo-Fr tagsüber
-Florian Hamburg 15 HLF 3	HLF 20	Ausbildungsfahrzeug (Möglicher Standort AS Volkspark)
-Florian Hamburg 15 DLK 1	DLK 26/12	Mercedes / Rosenbauer
-Florian Hamburg 15 GW1 1	GW1	
+*Florian Hamburg 15 ELW 1	ELW1	C-Dienst
+*Florian Hamburg 15 HLF 1	HLF 20
+*Florian Hamburg 15 HLF 2	HLF 20	Mo-Fr tagsüber
+*Florian Hamburg 15 HLF 3	HLF 20	Ausbildungsfahrzeug (Möglicher Standort AS Volkspark)
+*Florian Hamburg 15 DLK 1	DLK 26/12	Mercedes / Rosenbauer
+*Florian Hamburg 15 GW1 1	GW1
 Florian Hamburg 17 VRW-T 1	VRW-T	Bis Fertigstellung Wache Schnelsen
 Florian Hamburg 17 SLF-T 1	SLF-T	Bis Fertigstellung Wache Schnelsen
-Florian Hamburg 15 RTW A	RTW	
-Florian Hamburg 15 RTW B	RTW	
-Florian Hamburg 15 RTW C	RTW	
-Florian Hamburg 15 RTW D	RTW	
+*Florian Hamburg 15 RTW A	RTW
+*Florian Hamburg 15 RTW B	RTW
+*Florian Hamburg 15 RTW C	RTW
+*Florian Hamburg 15 RTW D	RTW
 Florian Hamburg 15 RTW K	RTW	
 Florian Hamburg 15 GW-MANV 1	GW-MANV	
 Florian Hamburg 15 MZF	MZF	(ehemaliges KLF)
 + RW Eidelstedt	Furtweg 57	
-Florian Hamburg RTW 15 G	RTW	
+*Florian Hamburg RTW 15 G	RTW
 + RW Niendorf	Garstedter Weg 24	besetzt von Finkenwerder
-Florian Hamburg 15 NEF A	NEF	
-Florian Hamburg 15 RTW F	RTW	
+*Florian Hamburg 15 NEF A	NEF
+*Florian Hamburg 15 RTW F	RTW
 + RW Schnelsen	Oldesloer Straße 21-23	
-Florian Hamburg 15 RTW I	RTW	
-Florian Hamburg 15 RTW J	RTW	
+*Florian Hamburg 15 RTW I	RTW
+*Florian Hamburg 15 RTW J	RTW
 + Außenstelle Volkspark	Schnackenburgallee 70	
-Florian Hamburg 15 SLF-T 1	SLF-T	
-Florian Hamburg 15 VRW-T 1	VRW-T	
+*Florian Hamburg 15 SLF-T 1	SLF-T
+*Florian Hamburg 15 VRW-T 1	VRW-T
 Florian Hamburg 15 RTW ?	RTW	Technische Reserve
 		
 F 16 Feuer- und Rettungswache Alsterdorf	Alsterkrugchaussee 288	22297 Hamburg
